@@ -6,4 +6,4 @@ I am practising branches
 This changes are made from develop branch
 I am practising branches
 This changes are made from develop branch
-This changes are made from release branch
+This changes are made from Feature-2 branch
