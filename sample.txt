@@ -1,0 +1,2 @@
+I am practising Git branch concept
+This is in Master branch by default
