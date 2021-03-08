@@ -7,5 +7,4 @@ I am practising branches
 This changes are made from develop branch
 I am practising branches
 This changes are made from develop branch
-This changes are made from feature-2 branch
->>>>>>> 7bda34e28b761f97dfbc5b9126f3003bcf5104e1
+
